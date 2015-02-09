@@ -1,0 +1,22 @@
+c:\users\hzalman\documents\visual studio 2013\Projects\Build Snapshot\Build Snapshot\bin\Debug\Build Snapshot.exe.config
+c:\users\hzalman\documents\visual studio 2013\Projects\Build Snapshot\Build Snapshot\bin\Debug\Build Snapshot.exe
+c:\users\hzalman\documents\visual studio 2013\Projects\Build Snapshot\Build Snapshot\bin\Debug\Build Snapshot.pdb
+c:\users\hzalman\documents\visual studio 2013\Projects\Build Snapshot\Build Snapshot\obj\Debug\Build Snapshot.csprojResolveAssemblyReference.cache
+c:\users\hzalman\documents\visual studio 2013\Projects\Build Snapshot\Build Snapshot\obj\Debug\Build_Snapshot.Form1.resources
+c:\users\hzalman\documents\visual studio 2013\Projects\Build Snapshot\Build Snapshot\obj\Debug\Build_Snapshot.Properties.Resources.resources
+c:\users\hzalman\documents\visual studio 2013\Projects\Build Snapshot\Build Snapshot\obj\Debug\Build Snapshot.csproj.GenerateResource.Cache
+c:\users\hzalman\documents\visual studio 2013\Projects\Build Snapshot\Build Snapshot\obj\Debug\Build Snapshot.exe
+c:\users\hzalman\documents\visual studio 2013\Projects\Build Snapshot\Build Snapshot\obj\Debug\Build Snapshot.pdb
+C:\Users\hzalman\Desktop\Build Snapshot\Build Snapshot\bin\Debug\Build Snapshot.exe.config
+C:\Users\hzalman\Desktop\Build Snapshot\Build Snapshot\obj\Debug\Build Snapshot.exe
+C:\Users\hzalman\Desktop\Build Snapshot\Build Snapshot\obj\Debug\Build Snapshot.pdb
+C:\Users\hzalman\Desktop\Build Snapshot Grid\Build Snapshot\bin\Debug\Build Snapshot.exe.config
+C:\Users\hzalman\Desktop\Build Snapshot Grid\Build Snapshot\bin\Debug\Build Snapshot.exe
+C:\Users\hzalman\Desktop\Build Snapshot Grid\Build Snapshot\bin\Debug\Build Snapshot.pdb
+C:\Users\hzalman\Desktop\Build Snapshot Grid\Build Snapshot\obj\Debug\Build_Snapshot.Form1.resources
+C:\Users\hzalman\Desktop\Build Snapshot Grid\Build Snapshot\obj\Debug\Build_Snapshot.Properties.Resources.resources
+C:\Users\hzalman\Desktop\Build Snapshot Grid\Build Snapshot\obj\Debug\Build Snapshot.csproj.GenerateResource.Cache
+C:\Users\hzalman\Desktop\Build Snapshot Grid\Build Snapshot\obj\Debug\Build Snapshot.exe
+C:\Users\hzalman\Desktop\Build Snapshot Grid\Build Snapshot\obj\Debug\Build Snapshot.pdb
+C:\Users\hzalman\Desktop\Build Snapshot Grid\Build Snapshot\obj\Debug\Build Snapshot.csprojResolveAssemblyReference.cache
+C:\Users\hzalman\Desktop\Build Snapshot Grid\Build Snapshot\obj\Debug\Build_Snapshot.Form2.resources

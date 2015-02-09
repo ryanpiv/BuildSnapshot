@@ -1,0 +1,4 @@
+C:\Users\rpiveteau\Desktop\SnapshotWeb\SnapshotWeb\bin\SnapshotWeb.dll
+C:\Users\rpiveteau\Desktop\SnapshotWeb\SnapshotWeb\bin\SnapshotWeb.pdb
+C:\Users\rpiveteau\Desktop\SnapshotWeb\SnapshotWeb\obj\Debug\SnapshotWeb.dll
+C:\Users\rpiveteau\Desktop\SnapshotWeb\SnapshotWeb\obj\Debug\SnapshotWeb.pdb
